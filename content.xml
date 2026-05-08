@@ -1,0 +1,1150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>flux</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>202605081840036QFJX1</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260508184003W5TZDH</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>PROYECTO HÁBITOS SALUDABLES </value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Belén Cobo Gómez </value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>flux</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1778184516246</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-1778184062702-ztjnxn7od</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Presentación </pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Presentación </value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778184062702-ztjnxn7od</odePageId>
+      <odeBlockId>block-1778184090286-6kezhe29v</odeBlockId>
+      <blockName>PRESENTAMOS EL PROYECTO</blockName>
+      <iconName>case</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778184062702-ztjnxn7od</odePageId>
+          <odeBlockId>block-1778184090286-6kezhe29v</odeBlockId>
+          <odeIdeviceId>idevice-1778184090284-xinn1vch4</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Título del proyecto</strong><br />“Muévete y aprende: hábitos saludables a través de la Educación Física y las herramientas<br />digitales”<br /></p>
+<p><strong>Centro de interés o temática</strong><br />El proyecto se centra en la promoción de hábitos de vida saludable a través de la actividad física, la alimentación equilibrada y el uso responsable de herramientas digitales.<br />El alumnado trabajará aspectos relacionados con el ejercicio físico, el descanso, la hidratación, la alimentación y la importancia de mantener rutinas saludables en su vida diaria.</p>
+<p><strong>Nivel al que va dirigido</strong><br />Está dirigido al alumnado de 5º curso de Educación Primaria.</p>
+<p><strong>Temporalización aproximada</strong><br />La duración aproximada será de 2 semanas, con un total de 6 sesiones de Educación Física de 60 minutos.<br /></p>
+<p><strong>Materias implicadas</strong><br />El Proyecto lo llevaremos a cabo en el área de Educación Física principalmente pero se puede vincular con Conocimiento del Medio y Lengua Castellana</p>
+<p><strong>Idioma</strong><br />El proyecto se desarrollará principalmente en castellano.</p>
+<p><strong>Descripción general del aprendizaje</strong><br />A través de este proyecto se pretende que el alumnado aprenda la importancia de mantener hábitos saludables relacionados con la actividad física, la alimentación y el descanso. Además, el alumnado utilizará herramientas digitales para buscar información, registrar sus hábitos, crear contenidos y trabajar de forma colaborativa.<br />Como producto final, podrán elaborar una presentación, un cartel digital, una infografía o un diario de hábitos saludables utilizando herramientas como Canva, Genially o Google Presentaciones.<br />De esta manera, se favorece tanto el desarrollo de la competencia motriz como la competencia digital.</p>
+<p><strong>Justificación</strong><br />Este proyecto se justifica a partir de la rutina de pensamiento realizada previamenter.<br />A través de dicha actividad se detectó a modo de sentimientos que el alumnado muestra interés por conocer cómo mejorar sus hábitos diarios relacionados con la actividad física, la alimentación, el descanso y el bienestar. Pero se observó que aunque muchos alumnos y alumnas conocen algunos hábitos saludables no siempre los aplican correctamente en su vida cotidiana.<br />Por ello, se realizó esta evaluación y un análisis y ver así el punto de partida para finalmente concluir que a través de este proyecto se pretende ayudar al alumnado a reflexionar sobre sus propias rutinas y a adquirir herramientas para mejorar su estilo de vida.<br />También destacar que la elección de Educación Física como materia principal permite abordar estos contenidos de una forma práctica, dinámica y motivadora. Además de la incorporación de herramientas digitales facilita la búsqueda de información, la creación de materiales y el trabajo colaborativo.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778184090284-xinn1vch4","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Título del proyecto</strong><br />“Muévete y aprende: hábitos saludables a través de la Educación Física y las herramientas<br />digitales”<br /></p>\n<p><strong>Centro de interés o temática</strong><br />El proyecto se centra en la promoción de hábitos de vida saludable a través de la actividad física, la alimentación equilibrada y el uso responsable de herramientas digitales.<br />El alumnado trabajará aspectos relacionados con el ejercicio físico, el descanso, la hidratación, la alimentación y la importancia de mantener rutinas saludables en su vida diaria.</p>\n<p><strong>Nivel al que va dirigido</strong><br />Está dirigido al alumnado de 5º curso de Educación Primaria.</p>\n<p><strong>Temporalización aproximada</strong><br />La duración aproximada será de 2 semanas, con un total de 6 sesiones de Educación Física de 60 minutos.<br /></p>\n<p><strong>Materias implicadas</strong><br />El Proyecto lo llevaremos a cabo en el área de Educación Física principalmente pero se puede vincular con Conocimiento del Medio y Lengua Castellana</p>\n<p><strong>Idioma</strong><br />El proyecto se desarrollará principalmente en castellano.</p>\n<p><strong>Descripción general del aprendizaje</strong><br />A través de este proyecto se pretende que el alumnado aprenda la importancia de mantener hábitos saludables relacionados con la actividad física, la alimentación y el descanso. Además, el alumnado utilizará herramientas digitales para buscar información, registrar sus hábitos, crear contenidos y trabajar de forma colaborativa.<br />Como producto final, podrán elaborar una presentación, un cartel digital, una infografía o un diario de hábitos saludables utilizando herramientas como Canva, Genially o Google Presentaciones.<br />De esta manera, se favorece tanto el desarrollo de la competencia motriz como la competencia digital.</p>\n<p><strong>Justificación</strong><br />Este proyecto se justifica a partir de la rutina de pensamiento realizada previamenter.<br />A través de dicha actividad se detectó a modo de sentimientos que el alumnado muestra interés por conocer cómo mejorar sus hábitos diarios relacionados con la actividad física, la alimentación, el descanso y el bienestar. Pero se observó que aunque muchos alumnos y alumnas conocen algunos hábitos saludables no siempre los aplican correctamente en su vida cotidiana.<br />Por ello, se realizó esta evaluación y un análisis y ver así el punto de partida para finalmente concluir que a través de este proyecto se pretende ayudar al alumnado a reflexionar sobre sus propias rutinas y a adquirir herramientas para mejorar su estilo de vida.<br />También destacar que la elección de Educación Física como materia principal permite abordar estos contenidos de una forma práctica, dinámica y motivadora. Además de la incorporación de herramientas digitales facilita la búsqueda de información, la creación de materiales y el trabajo colaborativo.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778170939581-yqya5y08v</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Guía didáctica</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778170939581-yqya5y08v</odePageId>
+      <odeBlockId>block-1778183456332-1h66e0tuy</odeBlockId>
+      <blockName>Tabla de tareas y normativa actual</blockName>
+      <iconName>activity</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778170939581-yqya5y08v</odePageId>
+          <odeBlockId>block-1778183456332-1h66e0tuy</odeBlockId>
+          <odeIdeviceId>idevice-1778183456330-p4uv79mww</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>A continuación se presenta tanto el documento en imagen de las tareas pripias del proyecto como su relación con los criterios de evaluación. Además de el documento relacionado con la normativa actual y la cual ha sido la guía a nivel curricular del desarrollo de esta situación de aprendizaje. </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778183456330-p4uv79mww","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>A continuación se presenta tanto el documento en imagen de las tareas pripias del proyecto como su relación con los criterios de evaluación. Además de el documento relacionado con la normativa actual y la cual ha sido la guía a nivel curricular del desarrollo de esta situación de aprendizaje. </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1778170939581-yqya5y08v</odePageId>
+      <odeBlockId>block-1778181764003-ua56bfeud</odeBlockId>
+      <blockName>Tareas el proyecto</blockName>
+      <iconName>book</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778170939581-yqya5y08v</odePageId>
+          <odeBlockId>block-1778181764003-ua56bfeud</odeBlockId>
+          <odeIdeviceId>idevice-1778181764002-6v1z7182t</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1778181764002-6v1z7182t" title="Imagen de elaboración propia " href="{{context_path}}/content/resources/6.png" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/6.png" height="128" width="128" title="Imagen de elaboración propia " alt="Imagen de elaboración propia " titlelink="" author="Belén Cobo Gómez " authorlink="" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778181764002-6v1z7182t","img_0":{"img":"blob:app://localhost/3f83a633-f60d-4792-b044-224cc07713a6","thumbnail":"blob:app://localhost/3f83a633-f60d-4792-b044-224cc07713a6","title":"Imagen de elaboración propia ","linktitle":"","author":"Belén Cobo Gómez ","linkauthor":"","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1778170939581-yqya5y08v</odePageId>
+      <odeBlockId>block-1778183662156-96sev2hdr</odeBlockId>
+      <blockName>Orden 30 de mayo de 2023</blockName>
+      <iconName>book</iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778170939581-yqya5y08v</odePageId>
+          <odeBlockId>block-1778183662156-96sev2hdr</odeBlockId>
+          <odeIdeviceId>idevice-1778183662155-fq0yorv4p</odeIdeviceId>
+          <odeIdeviceTypeName>external-website</odeIdeviceTypeName>
+          <htmlView><![CDATA[      <div id="iframeWebsiteIdevice">       <iframe src="https://www.juntadeandalucia.es/boja/2023/104/39" size="2" width="600" height="300" style="width:100%;">      </iframe>      <div class="iframe-error-message" style="display:none;">No se puede mostrar un iframe en HTTP en una web HTTPS.</div>       </div>      ]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778171497715-5a29pli47</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Seguridad y derechos digitales</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Seguridad y derechos digitales</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Seguridad y derechos digitales</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778171497715-5a29pli47</odePageId>
+      <odeBlockId>block-1778171517575-13fspvsqp</odeBlockId>
+      <blockName>Seguridad ante todo</blockName>
+      <iconName>interactive</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778171497715-5a29pli47</odePageId>
+          <odeBlockId>block-1778171517575-13fspvsqp</odeBlockId>
+          <odeIdeviceId>idevice-1778171517571-czr724q89</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Antes de aventurarnos en la proyecto deberías considerar esta guía para poder movernos por el mundo digital.  A través de consejos prácticos y acciones concretas, aprenderás desde cómo blindar tus datos personales y crear contraseñas hasta cómo respetar el trabajo de los demás usando imágenes con licencia y cuidando siempre tu huella digital. Sigue estas claves para convertirte en un experto ciudadano digital y asegurar que tus trabajos brillen tanto por su contenido como por su responsabilidad.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778171517571-czr724q89","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Antes de aventurarnos en la proyecto deberías considerar esta guía para poder movernos por el mundo digital.  A través de consejos prácticos y acciones concretas, aprenderás desde cómo blindar tus datos personales y crear contraseñas hasta cómo respetar el trabajo de los demás usando imágenes con licencia y cuidando siempre tu huella digital. Sigue estas claves para convertirte en un experto ciudadano digital y asegurar que tus trabajos brillen tanto por su contenido como por su responsabilidad.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1778171497715-5a29pli47</odePageId>
+      <odeBlockId>block-1778172062166-vkqb6dz0g</odeBlockId>
+      <blockName>Infografía seguridad</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778171497715-5a29pli47</odePageId>
+          <odeBlockId>block-1778172062166-vkqb6dz0g</odeBlockId>
+          <odeIdeviceId>idevice-1778172062163-8asz58ze5</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1778172062163-8asz58ze5" title="Imagen de elaboración propia " href="{{context_path}}/content/resources/infografia.png" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/infografia.png" height="128" width="128" title="Imagen de elaboración propia " alt="Imagen de elaboración propia " titlelink="" author="Belén Cobo Gómez " authorlink="" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778172062163-8asz58ze5","img_0":{"img":"blob:app://localhost/a323c897-873f-4c00-a1c3-2960b93bcc57","thumbnail":"blob:app://localhost/a323c897-873f-4c00-a1c3-2960b93bcc57","title":"Imagen de elaboración propia ","linktitle":"","author":"Belén Cobo Gómez ","linkauthor":"","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778172492509-ezyznqvst</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>RETO: PRODUCTO FINAL</pageName>
+  <odeNavStructureOrder>9</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>RETO: PRODUCTO FINAL</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>RETO: PRODUCTO FINAL</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778172492509-ezyznqvst</odePageId>
+      <odeBlockId>block-1778172557132-76mmtuu3j</odeBlockId>
+      <blockName>Proyecto saludable</blockName>
+      <iconName>competencies</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778172492509-ezyznqvst</odePageId>
+          <odeBlockId>block-1778172557132-76mmtuu3j</odeBlockId>
+          <odeIdeviceId>idevice-1778172557131-bn0jzy77g</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Herramienta propuesta  </strong></p>
+<p>Para el desarrollo del producto final de esta sda, os propongo  el uso de la<br />herramienta digital Canva con el objetivo de crear una presentación visual interactiva que recoja los contenidos trabajados durante el proyecto.</p>
+<p><strong>Justificación de la elección</strong> <br />En primer lugar, su gran versatilidad, ya que permite diseñar presentaciones, infografías, vídeos y otros formatos visuales en un mismo entorno. Además, su interfaz es intuitiva, lo que facilita su uso incluso en alumnado con un nivel básico de competencia digital.<br /></p>
+<p>En cuanto al contexto del centro, Canva puede utilizarse tanto en dispositivos individuales como compartidos, y dispone de versión web, por lo que no requiere instalación. Esto resulta especialmente útil en aulas con recursos tecnológicos limitados.<br /></p>
+<p>Por otro lado, se adapta bien a la edad y características del alumnado, permitiendo trabajar la<br />creatividad, la organización de la información y la comunicación visual. También favorece el trabajo cooperativo.<br /></p>
+<p>En relación con la accesibilidad, la herramienta ofrece plantillas prediseñadas, uso sencillo de elementos visuales y posibilidad de incluir texto alternativo en imágenes, lo que facilita la inclusión de todo el alumnado.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778172557131-bn0jzy77g","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Herramienta propuesta  </strong></p>\n<p>Para el desarrollo del producto final de esta sda, os propongo  el uso de la<br />herramienta digital Canva con el objetivo de crear una presentación visual interactiva que recoja los contenidos trabajados durante el proyecto.</p>\n<p><strong>Justificación de la elección</strong> <br />En primer lugar, su gran versatilidad, ya que permite diseñar presentaciones, infografías, vídeos y otros formatos visuales en un mismo entorno. Además, su interfaz es intuitiva, lo que facilita su uso incluso en alumnado con un nivel básico de competencia digital.<br /></p>\n<p>En cuanto al contexto del centro, Canva puede utilizarse tanto en dispositivos individuales como compartidos, y dispone de versión web, por lo que no requiere instalación. Esto resulta especialmente útil en aulas con recursos tecnológicos limitados.<br /></p>\n<p>Por otro lado, se adapta bien a la edad y características del alumnado, permitiendo trabajar la<br />creatividad, la organización de la información y la comunicación visual. También favorece el trabajo cooperativo.<br /></p>\n<p>En relación con la accesibilidad, la herramienta ofrece plantillas prediseñadas, uso sencillo de elementos visuales y posibilidad de incluir texto alternativo en imágenes, lo que facilita la inclusión de todo el alumnado.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778172910217-rhtnfx71r</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Recursos y curación del contenido</pageName>
+  <odeNavStructureOrder>10</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Recursos y curación del contenido</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Recursos y curación del contenido</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778172910217-rhtnfx71r</odePageId>
+      <odeBlockId>block-1778173221677-reoogdjkh</odeBlockId>
+      <blockName>Fuentes para el alumnado</blockName>
+      <iconName>think_alt</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778172910217-rhtnfx71r</odePageId>
+          <odeBlockId>block-1778173221677-reoogdjkh</odeBlockId>
+          <odeIdeviceId>idevice-1778173221675-lddsx3ivi</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>1. Recursos para el proyecto del alumnado </p>
+<p><strong>Herramienta utilizada:</strong>  Padlet</p>
+<p><strong>Enlace:</strong> https://padlet.com/belencobo29/curaci-n-de-contenidos-q50ohb4ddvoq2ulk</p>
+<p><strong>Estrategia de curación:</strong> Para esta primera parte, he diseñado un muro interactivo donde se completará previamente el Padlet con imágenes e información de páginas y aplicaciones web. De esta forma, el alumnado dispone de una base de datos fiable y visual a la que pueden acudir en cualquier momento de la investigación para extraer datos clave, biografías y logros, evitando que se pierdan en búsquedas genéricas de internet que no siempre son de calidad.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778173221675-lddsx3ivi","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>1. Recursos para el proyecto del alumnado </p>\n<p><strong>Herramienta utilizada:</strong>  Padlet</p>\n<p><strong>Enlace:</strong> https://padlet.com/belencobo29/curaci-n-de-contenidos-q50ohb4ddvoq2ulk</p>\n<p><strong>Estrategia de curación:</strong> Para esta primera parte, he diseñado un muro interactivo donde se completará previamente el Padlet con imágenes e información de páginas y aplicaciones web. De esta forma, el alumnado dispone de una base de datos fiable y visual a la que pueden acudir en cualquier momento de la investigación para extraer datos clave, biografías y logros, evitando que se pierdan en búsquedas genéricas de internet que no siempre son de calidad.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1778172910217-rhtnfx71r</odePageId>
+      <odeBlockId>block-1778173486423-7ccju7dfj</odeBlockId>
+      <blockName>Padlet de referencia</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778172910217-rhtnfx71r</odePageId>
+          <odeBlockId>block-1778173486423-7ccju7dfj</odeBlockId>
+          <odeIdeviceId>idevice-1778173486422-1dfh9o6ly</odeIdeviceId>
+          <odeIdeviceTypeName>external-website</odeIdeviceTypeName>
+          <htmlView><![CDATA[      <div id="iframeWebsiteIdevice">       <iframe src="https://padlet.com/belencobo29/curaci-n-de-contenidos-q50ohb4ddvoq2ulk" size="2" width="600" height="300" style="width:100%;">      </iframe>      <div class="iframe-error-message" style="display:none;">No se puede mostrar un iframe en HTTP en una web HTTPS.</div>       </div>      ]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1778172910217-rhtnfx71r</odePageId>
+      <odeBlockId>block-1778173526692-7q5qrwmu3</odeBlockId>
+      <blockName>Fuentes para la gestión del aula</blockName>
+      <iconName>think_alt</iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778172910217-rhtnfx71r</odePageId>
+          <odeBlockId>block-1778173526692-7q5qrwmu3</odeBlockId>
+          <odeIdeviceId>idevice-1778173526691-bhmucffbe</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Herramientas para la Gestión del Aula </p>
+<p>Herramienta utilizada: Symbaloo<br />Enlace: https://belen3.symbaloo.com/home/mix/13eOcXKXIH<br />Estrategia de curación: En esta recopilación comparto las aplicaciones y extensiones que utilizo en mi día a día para la gestión administrativa, el seguimiento del progreso del alumno y la creación de materiales educativos.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778173526691-bhmucffbe","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Herramientas para la Gestión del Aula </p>\n<p>Herramienta utilizada: Symbaloo<br />Enlace: https://belen3.symbaloo.com/home/mix/13eOcXKXIH<br />Estrategia de curación: En esta recopilación comparto las aplicaciones y extensiones que utilizo en mi día a día para la gestión administrativa, el seguimiento del progreso del alumno y la creación de materiales educativos.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1778172910217-rhtnfx71r</odePageId>
+      <odeBlockId>block-1778173701633-noj9hdbzd</odeBlockId>
+      <blockName>Symbaloo de referencia</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>3</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778172910217-rhtnfx71r</odePageId>
+          <odeBlockId>block-1778173701633-noj9hdbzd</odeBlockId>
+          <odeIdeviceId>idevice-1778173701630-1vbpmaowo</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1778173701630-1vbpmaowo" title="" href="{{context_path}}/content/resources/Sin título.png" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/Sin título.png" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778173701630-1vbpmaowo","img_0":{"img":"{{context_path}}/content/resources/Sin título.png","thumbnail":"{{context_path}}/content/resources/Sin título.png","title":"","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778173901280-ozujacf59</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Temporalización y plan de trabajo </pageName>
+  <odeNavStructureOrder>12</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Temporalización y plan de trabajo </value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778173901280-ozujacf59</odePageId>
+      <odeBlockId>block-1778174036894-ogf61kf5r</odeBlockId>
+      <blockName>¿Cómo nos organizamos?</blockName>
+      <iconName>piece</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778173901280-ozujacf59</odePageId>
+          <odeBlockId>block-1778174036894-ogf61kf5r</odeBlockId>
+          <odeIdeviceId>idevice-1778174036891-icucrzc15</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Para que este proyecto sea realmente eficaz, es fundamental que sepamos qué vamos a hacer, cuándo y con qué herramientas. En este apartado encontrarás la planificación detallada de todas nuestras paradas en este viaje de aprendizaje.</p>
+<p>¿Cómo leer esta línea temporal? De un solo "golpe de vista" podrás consultar:</p>
+<p>- La temporalización: el tiempo empleado.<br />- Agrupamientos: Si trabajaremos de forma individual y grupal.<br />- Herramientas y espacios: Qué aplicaciones digitales usaremos y dónde.</p>
+<p>- Recursos que usaremos cada día.</p>
+<p>- Las tareas que vamos a llevar a cabo.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778174036891-icucrzc15","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Para que este proyecto sea realmente eficaz, es fundamental que sepamos qué vamos a hacer, cuándo y con qué herramientas. En este apartado encontrarás la planificación detallada de todas nuestras paradas en este viaje de aprendizaje.</p>\n<p>¿Cómo leer esta línea temporal? De un solo \"golpe de vista\" podrás consultar:</p>\n<p>- La temporalización: el tiempo empleado.<br />- Agrupamientos: Si trabajaremos de forma individual y grupal.<br />- Herramientas y espacios: Qué aplicaciones digitales usaremos y dónde.</p>\n<p>- Recursos que usaremos cada día.</p>\n<p>- Las tareas que vamos a llevar a cabo.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1778173901280-ozujacf59</odePageId>
+      <odeBlockId>block-1778174272909-v05bmpkvh</odeBlockId>
+      <blockName>Línea temporal</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778173901280-ozujacf59</odePageId>
+          <odeBlockId>block-1778174272909-v05bmpkvh</odeBlockId>
+          <odeIdeviceId>idevice-1778174272907-9ca5jw09t</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1778174272907-9ca5jw09t" title="Imagen de elaboración propia " href="{{context_path}}/content/resources/tempo.png" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/tempo.png" height="128" width="128" title="Imagen de elaboración propia " alt="Imagen de elaboración propia " titlelink="" author="Belén Cobo Gómez " authorlink="" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778174272907-9ca5jw09t","img_0":{"img":"blob:app://localhost/eb40bc2b-41be-4f18-ade6-7dbf5e581359","thumbnail":"blob:app://localhost/eb40bc2b-41be-4f18-ade6-7dbf5e581359","title":"Imagen de elaboración propia ","linktitle":"","author":"Belén Cobo Gómez ","linkauthor":"","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778174657900-kst6r5wc8</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Evaluación </pageName>
+  <odeNavStructureOrder>13</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Evaluación </value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778174657900-kst6r5wc8</odePageId>
+      <odeBlockId>block-1778174663404-26vhkcfq7</odeBlockId>
+      <blockName>La Evaluación</blockName>
+      <iconName>observe</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778174657900-kst6r5wc8</odePageId>
+          <odeBlockId>block-1778174663404-26vhkcfq7</odeBlockId>
+          <odeIdeviceId>idevice-1778174663402-zxo7m3tjb</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>La evaluación en este proyecto se concibe como un proceso <strong>continuo, formativo y fundamental</strong> en el proceso de aprendizaje, diseñado para potenciar el desarrollo de cada discente y ajustar nuestra intervención docente. Para garantizar una visión objetiva y completa del progreso, presentamos a continuación dos ejemplos de evaluación aplicados a criterios de área de Educación Física utilizando instrumentos específicos que nos permiten analizar tanto el desempeño técnico como el actitudinal:</p>
+<p>Educación Física: evaluamos tanto la práctica de las distintas actividades, el registro, el análisis como la elaboración del producto final. </p>
+<p>En esta situación de Aprendizaje (SdA), con el objetivo de evaluar tanto el proceso como el resultado del aprendizaje del alumnado. Se busca obtener información significativa que permita mejorar la enseñanza y atender a la diversidad del aula.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778174663402-zxo7m3tjb","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>La evaluación en este proyecto se concibe como un proceso <strong>continuo, formativo y fundamental</strong> en el proceso de aprendizaje, diseñado para potenciar el desarrollo de cada discente y ajustar nuestra intervención docente. Para garantizar una visión objetiva y completa del progreso, presentamos a continuación dos ejemplos de evaluación aplicados a criterios de área de Educación Física utilizando instrumentos específicos que nos permiten analizar tanto el desempeño técnico como el actitudinal:</p>\n<p>Educación Física: evaluamos tanto la práctica de las distintas actividades, el registro, el análisis como la elaboración del producto final. </p>\n<p>En esta situación de Aprendizaje (SdA), con el objetivo de evaluar tanto el proceso como el resultado del aprendizaje del alumnado. Se busca obtener información significativa que permita mejorar la enseñanza y atender a la diversidad del aula.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778175271276-anqk7bis2</odePageId>
+  <odeParentPageId>page-1778174657900-kst6r5wc8</odeParentPageId>
+  <pageName>Rúbrica de evaluación </pageName>
+  <odeNavStructureOrder>8</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Rúbrica de evaluación </value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778175271276-anqk7bis2</odePageId>
+      <odeBlockId>block-1778175380375-eu7r5fnea</odeBlockId>
+      <blockName>Rúbrica de evaluación</blockName>
+      <iconName>calculate</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778175271276-anqk7bis2</odePageId>
+          <odeBlockId>block-1778175380375-eu7r5fnea</odeBlockId>
+          <odeIdeviceId>idevice-1778175380372-bds8ac440</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Una rúbrica es una herramienta que permite evaluar el desempeño del alumnado mediante criterios y niveles de logro. En la cual se va a evaluar la comprensión de saberes, la calidad del producto final, la creatividad y el uso de herramientas digitales. Se usará al final del proyecto. Se obtienen los datos que se asigna un nivel (por ejemplo: insuficiente, suficiente, notable, sobresaliente) en cada criterio. </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778175380372-bds8ac440","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Una rúbrica es una herramienta que permite evaluar el desempeño del alumnado mediante criterios y niveles de logro. En la cual se va a evaluar la comprensión de saberes, la calidad del producto final, la creatividad y el uso de herramientas digitales. Se usará al final del proyecto. Se obtienen los datos que se asigna un nivel (por ejemplo: insuficiente, suficiente, notable, sobresaliente) en cada criterio. </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1778175271276-anqk7bis2</odePageId>
+      <odeBlockId>block-1778175474647-n1x9bk790</odeBlockId>
+      <blockName>Galería de imágenes</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778175271276-anqk7bis2</odePageId>
+          <odeBlockId>block-1778175474647-n1x9bk790</odeBlockId>
+          <odeIdeviceId>idevice-1778175474645-n4b0ibpxe</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1778175474645-n4b0ibpxe" title="Imagen de elaboración propia " href="{{context_path}}/content/resources/rúbrica.png" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/rúbrica.png" height="128" width="128" title="Imagen de elaboración propia " alt="Imagen de elaboración propia " titlelink="" author="Belén Cobo Gómez " authorlink="" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778175474645-n4b0ibpxe","img_0":{"img":"blob:app://localhost/d50ce1c1-981f-4020-b0dd-95bfef805e87","thumbnail":"blob:app://localhost/d50ce1c1-981f-4020-b0dd-95bfef805e87","title":"Imagen de elaboración propia ","linktitle":"","author":"Belén Cobo Gómez ","linkauthor":"","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778175632013-fhjng1fnq</odePageId>
+  <odeParentPageId>page-1778174657900-kst6r5wc8</odeParentPageId>
+  <pageName>Diana de evaluación </pageName>
+  <odeNavStructureOrder>10</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Diana de evaluación </value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778175632013-fhjng1fnq</odePageId>
+      <odeBlockId>block-1778175647985-u0qq5r1jp</odeBlockId>
+      <blockName>Diana de evaluación</blockName>
+      <iconName>calculate</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778175632013-fhjng1fnq</odePageId>
+          <odeBlockId>block-1778175647985-u0qq5r1jp</odeBlockId>
+          <odeIdeviceId>idevice-1778175647983-hwrlufip8</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Una diana de evaluación es una herramienta visual donde el alumnado valora su propio aprendizaje.<br />La cual evalúa la autoevaluación del aprendizaje, la participación, el esfuerzo y el trabajo en equipo<br />Se va a utilizar durante el proceso y al final del proyecto (evaluación formativa). El alumnado marca su nivel en cada apartado de la diana. Para analizarla se comparan con la evaluación del docente, se detectan<br />diferencias entre percepción y rendimiento real. Estos datos sirven para fomentar la reflexión del alumnado, mejorar la autonomía y ajustar la enseñanza según necesidades detectadas</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778175647983-hwrlufip8","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Una diana de evaluación es una herramienta visual donde el alumnado valora su propio aprendizaje.<br />La cual evalúa la autoevaluación del aprendizaje, la participación, el esfuerzo y el trabajo en equipo<br />Se va a utilizar durante el proceso y al final del proyecto (evaluación formativa). El alumnado marca su nivel en cada apartado de la diana. Para analizarla se comparan con la evaluación del docente, se detectan<br />diferencias entre percepción y rendimiento real. Estos datos sirven para fomentar la reflexión del alumnado, mejorar la autonomía y ajustar la enseñanza según necesidades detectadas</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1778175632013-fhjng1fnq</odePageId>
+      <odeBlockId>block-1778181302095-dmzt6w4ni</odeBlockId>
+      <blockName>Ejemplo Diana de evaluación</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778175632013-fhjng1fnq</odePageId>
+          <odeBlockId>block-1778181302095-dmzt6w4ni</odeBlockId>
+          <odeIdeviceId>idevice-1778181302093-0dlgib1xe</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1778181302093-0dlgib1xe" title="Imagen de elaboración propia" href="{{context_path}}/content/resources/diana.png" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/diana.png" height="128" width="128" title="Imagen de elaboración propia" alt="Imagen de elaboración propia" titlelink="" author="Belén Cobo Gómez " authorlink="" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778181302093-0dlgib1xe","img_0":{"img":"blob:app://localhost/c7477cb6-7f72-45bd-8f02-0712d059f468","thumbnail":"blob:app://localhost/c7477cb6-7f72-45bd-8f02-0712d059f468","title":"Imagen de elaboración propia","linktitle":"","author":"Belén Cobo Gómez ","linkauthor":"","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778181674459-t141a74bh</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Créditos </pageName>
+  <odeNavStructureOrder>16</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos </value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778181674459-t141a74bh</odePageId>
+      <odeBlockId>block-1778181900975-gme3h5hi4</odeBlockId>
+      <blockName>Créditos</blockName>
+      <iconName>file</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778181674459-t141a74bh</odePageId>
+          <odeBlockId>block-1778181900975-gme3h5hi4</odeBlockId>
+          <odeIdeviceId>idevice-1778181900972-cfftqnf23</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Descripción del Proyecto</strong><br />Muévete y aprende: hábitos saludables a través de la Educación Física y las herramientas digitales" es una Situación de Aprendizaje (SdA) interdisciplinar (Educación Física, Lengua y Conocimiento del Medio) diseñada para 5º de Primaria.</p>
+<p>A través de este proyecto se pretende que el alumnado aprenda la importancia de mantener hábitos saludables relacionados con la actividad física, la alimentación y el descanso. Además, el alumnado utilizará herramientas digitales para buscar información, registrar sus hábitos, crear contenidos y trabajar de forma colaborativa. Como producto final, podrán elaborar una presentación, un cartel digital, una infografía o un diario de hábitos saludables utilizando herramientas como Canva, Genially o Google Presentaciones.<br />De esta manera, se favorece tanto el desarrollo de la competencia motriz como la competencia digital.</p>
+<p><strong>Autoría</strong><br />Autor: Belén Cobo Gómez <br />Contexto: Proyecto de creación de Recursos Educativos Abiertos (REA) - Unidad Competencial.<br />Fecha: mayo de 2026<br /> <br /><strong>Herramientas Utilizadas</strong><br />Para el desarrollo de este recurso y el trabajo del alumnado, se han empleado:</p>
+<p>EXeLearning: Software de autor libre y gratuito utilizado para la estructura y creación del REA.<br />Padlet: Muro digital interactivo empleado como espacio de trabajo colaborativo y puesta en común de las investigaciones.<br />Genially / Google Earth: Soporte para el Mapa Interactivo de las deportistas andaluzas.<br />Canva: Diseño de la línea temporal del proyecto y elementos visuales de apoyo.<br />Symbaloo: Plataforma de curación de contenidos para organizar el banco de recursos y fuentes de investigación.<br />Google Workspace: Gestión de documentos técnicos (Protección de datos y Evaluación).<br /> <br /><strong>Licencia de Uso</strong><br />Este material se publica bajo una licencia Creative Commons Atribución-CompartirIgual (BY-SA 4.0).</p>
+<p download="exe-package:elp-name">Usted es libre de copiar, transformar y compartir este recurso para fines educativos, siempre que reconozca la autoría original y mantenga esta misma licencia en sus obras derivadas.<br title="" /> <br /><strong>Descarga del Archivo Editable</strong><br />Como parte del compromiso con la comunidad educativa y el movimiento de Recursos Educativos Abiertos (REA), puedes descargar el archivo fuente para adaptarlo a tu contexto. <a href="exe-package:elp">Descargar archivo</a> </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778181900972-cfftqnf23","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Descripción del Proyecto</strong><br />Muévete y aprende: hábitos saludables a través de la Educación Física y las herramientas digitales\" es una Situación de Aprendizaje (SdA) interdisciplinar (Educación Física, Lengua y Conocimiento del Medio) diseñada para 5º de Primaria.</p>\n<p>A través de este proyecto se pretende que el alumnado aprenda la importancia de mantener hábitos saludables relacionados con la actividad física, la alimentación y el descanso. Además, el alumnado utilizará herramientas digitales para buscar información, registrar sus hábitos, crear contenidos y trabajar de forma colaborativa. Como producto final, podrán elaborar una presentación, un cartel digital, una infografía o un diario de hábitos saludables utilizando herramientas como Canva, Genially o Google Presentaciones.<br />De esta manera, se favorece tanto el desarrollo de la competencia motriz como la competencia digital.</p>\n<p><strong>Autoría</strong><br />Autor: Belén Cobo Gómez <br />Contexto: Proyecto de creación de Recursos Educativos Abiertos (REA) - Unidad Competencial.<br />Fecha: mayo de 2026<br /> <br /><strong>Herramientas Utilizadas</strong><br />Para el desarrollo de este recurso y el trabajo del alumnado, se han empleado:</p>\n<p>EXeLearning: Software de autor libre y gratuito utilizado para la estructura y creación del REA.<br />Padlet: Muro digital interactivo empleado como espacio de trabajo colaborativo y puesta en común de las investigaciones.<br />Genially / Google Earth: Soporte para el Mapa Interactivo de las deportistas andaluzas.<br />Canva: Diseño de la línea temporal del proyecto y elementos visuales de apoyo.<br />Symbaloo: Plataforma de curación de contenidos para organizar el banco de recursos y fuentes de investigación.<br />Google Workspace: Gestión de documentos técnicos (Protección de datos y Evaluación).<br /> <br /><strong>Licencia de Uso</strong><br />Este material se publica bajo una licencia Creative Commons Atribución-CompartirIgual (BY-SA 4.0).</p>\n<p download=\"exe-package:elp-name\">Usted es libre de copiar, transformar y compartir este recurso para fines educativos, siempre que reconozca la autoría original y mantenga esta misma licencia en sus obras derivadas.<br title=\"\" /> <br /><strong>Descarga del Archivo Editable</strong><br />Como parte del compromiso con la comunidad educativa y el movimiento de Recursos Educativos Abiertos (REA), puedes descargar el archivo fuente para adaptarlo a tu contexto. <a href=\"exe-package:elp\">Descargar archivo</a> </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
